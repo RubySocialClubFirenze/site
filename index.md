@@ -30,7 +30,7 @@ già" (sciamp)
 
 ## Come funziona il Ruby Social Club a Firenze
 
-Il Ruby Social Club di Fienze nasce come un incontro informale per gli 
+Il Ruby Social Club di Firenze nasce come un incontro informale per gli 
 appassionati di Ruby, solitamente si svolge in un PUB in orario da aperitvo.
 Ci si trova nel locale e si mangia qualcosa insieme, dopodiché si inizia 
 con la scaletta dei talk organizzati, poi segue una _hacking session_.
