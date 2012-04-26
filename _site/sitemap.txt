@@ -7,4 +7,4 @@ http://firenze.ruby-it.org/archive.html
 http://firenze.ruby-it.org/index.html
 http://firenze.ruby-it.org/sitemap.txt
 
-http://firenze.ruby-it.org/lessons/2011/12/29/jekyll-introduction
+http://firenze.ruby-it.org/2012/04/26/la+nascita

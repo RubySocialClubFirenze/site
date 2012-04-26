@@ -3,5 +3,8 @@ source :rubygems
 gem 'rake'
 gem 'rack'
 gem 'rack-contrib'
-gem 'jekyll'
-gem 'RedCloth'
+
+group :development do
+  gem 'jekyll'
+  gem 'RedCloth'
+end
