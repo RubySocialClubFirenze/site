@@ -4,7 +4,7 @@ task :generate do
   opt = Jekyll.configuration({})
   source = opt['source']
   destination = opt['destination']
-  site = Jekyll::Site.new(opt)
+  site = Jekyll::Site.new(opt.merge({'safe' => 'true'}))
   puts "Building site: #{source} -> #{destination}"
   begin
     site.process
