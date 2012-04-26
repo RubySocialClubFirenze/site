@@ -20,5 +20,5 @@ end
 
 desc "Powerfull deploy script"
 task :deploy => :generate do
-  exec "git push heroku" 
+  exec "git push heroku && heroku run rake generate" 
 end
