@@ -13,7 +13,7 @@ title : Ruby Social Club Firenze
 tagline: Site Tagline
 author :
   name : Ruby Social Club Firenze
-  email : blah@email.test
+  email : ruby-request@lists.lilik.it
   github : RubySocialClubFirenze
 #  twitter : username
   feedburner : RubySocialClubFirenze
@@ -97,7 +97,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : getclicky
+    provider : mixpanel
 #    google : 
 #        tracking_id : 'UA-123-12'
     getclicky :
