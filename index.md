@@ -57,7 +57,7 @@ Lo storico degli incontri
 </ul>
 
 <script type="text/javascript">
-mixpanel.track("Homepage loaded");
+{% if site.safe %}mixpanel.track("Homepage loaded");{% endif %}
 
 // $(function(){
 // 	//sposta la mappa
