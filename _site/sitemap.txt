@@ -7,4 +7,5 @@ http://firenze.ruby-it.org/pages.html
 http://firenze.ruby-it.org/sitemap.txt
 http://firenze.ruby-it.org/tags.html
 
+http://firenze.ruby-it.org/2012/05/02/2-maggio-al-pangoro
 http://firenze.ruby-it.org/2012/04/26/la+nascita

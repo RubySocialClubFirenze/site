@@ -4,13 +4,33 @@
  <title>Ruby Social Club Firenze</title>
  <link href="http://firenze.ruby-it.org/atom.xml" rel="self"/>
  <link href="http://firenze.ruby-it.org"/>
- <updated>2012-04-26T19:00:16+02:00</updated>
+ <updated>2012-04-27T01:30:09+02:00</updated>
  <id>http://firenze.ruby-it.org</id>
  <author>
    <name>Ruby Social Club Firenze</name>
    <email>ruby-request@lists.lilik.it</email>
  </author>
 
+ 
+ <entry>
+   <title>2 maggio al Pan.Go.Ro</title>
+   <link href="http://firenze.ruby-it.org/2012/05/02/2-maggio-al-pangoro"/>
+   <updated>2012-05-02T00:00:00+02:00</updated>
+   <id>http://firenze.ruby-it.org/2012/05/02/2-maggio-al-pangoro</id>
+   <content type="html">&lt;p&gt;Il prossimo Ruby Social Club si terrà &lt;strong&gt;mercoledì 2 maggio 2012&lt;/strong&gt; presso il PUB &lt;strong&gt;Pan.Go.Ro. in via pisana 82/rosso&lt;/strong&gt; (vicino a porta S. Frediano); inizio ore 19:30&lt;/p&gt;
+
+&lt;p&gt;Questa è una lista dei possibili talk:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;#8220;I wanna be an actor too - Painless multithreaded programming with Celluloid&amp;#8221; (nolith)&lt;/li&gt;
+
+&lt;li&gt;&amp;#8220;(S)configurare i propri server con un solo comando (e puppet)&amp;#8221; (quick)&lt;/li&gt;
+
+&lt;li&gt;&amp;#8220;Fare il proprio blog con Jekyll (con eventuale migrazione da wordpress)&amp;#8221; (tommyblue)&lt;/li&gt;
+
+&lt;li&gt;&amp;#8220;Ma perché non emacs? - a caccia di feature che sicuramente esistono già&amp;#8221; (sciamp)&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
  
  <entry>
    <title>La nascita del Ruby Social Club Firenze</title>
