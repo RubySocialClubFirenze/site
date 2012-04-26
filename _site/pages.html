@@ -189,16 +189,18 @@
 
 
   <script type="text/javascript">
-    var mpq = [];
-    mpq.push(["init", "9bc1b5dd7fbd153d9d441999b72b6195"]);
-    (function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";
-    b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+
-    "//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];
-    a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push(
-    [f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links",
-    "track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<
-    d.length;c++){mpq[d[c]]=e(d[c])}})();
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(66576424);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
 </script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66576424ns.gif" /></p></noscript>
+
 
 
 
