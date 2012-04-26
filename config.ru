@@ -1,9 +1,14 @@
-require 'rubygems'
-require 'rack'
-require 'rack/contrib/try_static'
-require 'rack/rewrite'
+e Rack::Static, 
+  :urls => ["/stylesheets", "/images"],
+  :root => "public"
 
-use Rack::TryStatic, 
-    :root => ".",  # static files root dir
-    :urls => %w[/],     # match all requests 
-    :try => ['.html', 'index.html', '/index.html'] # tries to recover from missing .html
+run lambda { |env|
+  [
+    200, 
+    {
+      'Content-Type'  => 'text/html', 
+      'Cache-Control' => 'public, max-age=86400' 
+    },
+    File.open('public/index.html', File::RDONLY)
+  ]
+}
