@@ -1,14 +1,11 @@
-e Rack::Static, 
-  :urls => ["/stylesheets", "/images"],
-  :root => "public"
+require 'rack'
+require 'rack/contrib/try_static'
 
-run lambda { |env|
-  [
-    200, 
-    {
-      'Content-Type'  => 'text/html', 
-      'Cache-Control' => 'public, max-age=86400' 
-    },
-    File.open('public/index.html', File::RDONLY)
-  ]
-}
+use Rack::TryStatic, 
+    :root => "_site",  # static files root dir
+    :urls => %w[/],     # match all requests 
+    :try => ['.html', 'index.html', '/index.html'] # try these postfixes sequentially
+# otherwise 404 NotFound
+run lambda { [404, {'Content-Type' => 'text/html'}, ['whoops! Not Found']]}
+
+# vi: ft=ruby
