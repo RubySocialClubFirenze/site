@@ -20,9 +20,9 @@ Il prossimo Ruby Social Club si terrà **mercoledì 2 maggio 2012** presso il PU
 
 Questa è una lista dei possibili talk:
 * "I wanna be an actor too - Painless multithreaded programming with Celluloid" (nolith)
-* Puppet (quick) 
-* "Fare il proprio blog con jekyll" (magari anche con
-la migrazione da wordpress) (tommyblue)
+* "(S)configurare i propri server con un solo comando (e puppet)" (quick) 
+* "Fare il proprio blog con Jekyll (con eventuale migrazione da
+wordpress)" (tommyblue)
 * "Ma perché non emacs? - a caccia di feature che sicuramente esistono
 già" (sciamp)
 
@@ -58,6 +58,10 @@ Lo storico degli incontri
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<script type="text/javascript">
+mixpanel.track("Homepage loaded");
+</script>
 
 
 
