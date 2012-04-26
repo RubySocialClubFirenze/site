@@ -16,7 +16,7 @@ author :
   email : blah@email.test
   github : RubySocialClubFirenze
 #  twitter : username
-#  feedburner : feedname
+  feedburner : RubySocialClubFirenze
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

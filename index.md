@@ -1,36 +1,29 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Ruby Social Club 
+tagline: Firenze 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Prossimo Evento
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Il prossimo Ruby Social Club si terrà mercoledì 2 maggio 2012.
 
-## Update Author Attributes
+Questa è una lista dei possibili talk:
+* "I wanna be an actor too - Painless multithreaded programming with Celluloid" (nolith)
+* Puppet (quick) 
+* "Fare il proprio blog con jekyll" (magari anche con
+la migrazione da wordpress) (tommyblue)
+* "Ma perché non emacs? - a caccia di feature che sicuramente esistono
+già" (sciamp)
 
-In `_config.yml` remember to specify your own data:
+## Organizzazione eventi
+
+Per l'organizzazione del Ruby Social Club utilizziamo una [mailing list](https://lists.lilik.it/wws/subscribe/ruby), passa a salutarci!
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## Eventi Passati
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Lo storico degli incontri
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +31,5 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
