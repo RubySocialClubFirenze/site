@@ -4,7 +4,7 @@
  <title>Ruby Social Club Firenze</title>
  <link href="http://firenze.ruby-it.org/atom.xml" rel="self"/>
  <link href="http://firenze.ruby-it.org"/>
- <updated>2012-04-27T01:30:09+02:00</updated>
+ <updated>2012-05-05T15:46:45+02:00</updated>
  <id>http://firenze.ruby-it.org</id>
  <author>
    <name>Ruby Social Club Firenze</name>
@@ -13,30 +13,58 @@
 
  
  <entry>
+   <title>Corso base Ruby e Ruby on Rails</title>
+   <link href="http://firenze.ruby-it.org/2012/05/05/corso-base-ruby-e-ruby-on-rails"/>
+   <updated>2012-05-05T00:00:00+02:00</updated>
+   <id>http://firenze.ruby-it.org/2012/05/05/corso-base-ruby-e-ruby-on-rails</id>
+   <content type="html">&lt;p&gt;La proposta per i prossimo evento è quella di un doppio incontro, il primo di introduzione a &lt;strong&gt;Ruby&lt;/strong&gt; e il secondo a &lt;strong&gt;Ruby on Rails&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Gli incontri sono destinati a chi si avvicina per la prima volta al mondo Ruby e Rails.&lt;/p&gt;
+
+&lt;p&gt;Lo stile sarà quello dell&amp;#8217;&lt;strong&gt;hacking session&lt;/strong&gt;, descritta più in basso.&lt;/p&gt;
+
+&lt;p&gt;Se vuoi contribuire con proposte, idee, suggerimenti o quant&amp;#8217;altro iscriviti alla nostra &lt;a href='https://lists.lilik.it/wws/subscribe/ruby'&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id='video'&gt;Video&lt;/h3&gt;
+
+&lt;p&gt;Sono online i video dell&amp;#8217;ultimo incontro, puoi trovarli a &lt;a href='/2012/05/02/2-maggio-al-pangoro/'&gt;questa pagina&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>2 maggio al Pan.Go.Ro</title>
    <link href="http://firenze.ruby-it.org/2012/05/02/2-maggio-al-pangoro"/>
    <updated>2012-05-02T00:00:00+02:00</updated>
    <id>http://firenze.ruby-it.org/2012/05/02/2-maggio-al-pangoro</id>
-   <content type="html">&lt;p&gt;Il prossimo Ruby Social Club si terrà &lt;strong&gt;mercoledì 2 maggio 2012&lt;/strong&gt; presso il PUB &lt;strong&gt;Pan.Go.Ro. in via pisana 82/rosso&lt;/strong&gt; (vicino a porta S. Frediano); inizio ore 19:30&lt;/p&gt;
+   <content type="html">
 
-&lt;p&gt;Questa è una lista dei possibili talk:&lt;/p&gt;
+&lt;p&gt;Il primo incontro &quot;ufficiale&quot; del Ruby Social Club Firenze si è tenuto &lt;strong&gt;mercoledì 2 maggio 2012&lt;/strong&gt; presso il PUB &lt;strong&gt;Pan.Go.Ro. in via pisana 82/rosso&lt;/strong&gt;.&lt;/p&gt;
 
+&lt;p&gt;I talk sono stati:
 &lt;ul&gt;
-&lt;li&gt;&amp;#8220;I wanna be an actor too - Painless multithreaded programming with Celluloid&amp;#8221; (nolith)&lt;/li&gt;
+    &lt;li&gt;&quot;Ma perché non emacs? - a caccia di feature che sicuramente esistono già&quot;&lt;/li&gt;
+    &lt;li&gt;&quot;I wanna be an actor too - Painless multithreaded programming with Celluloid&quot;&lt;/li&gt;
+    &lt;li&gt;&quot;(S)configurare i propri server con un solo comando (e puppet)&quot;&lt;/li&gt;
+    &lt;li&gt;&quot;Fare il proprio blog con Jekyll (con eventuale migrazione da wordpress)&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
 
-&lt;li&gt;&amp;#8220;(S)configurare i propri server con un solo comando (e puppet)&amp;#8221; (quick)&lt;/li&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;p&gt;I nostri potenti mezzi tecnologici :) si consentono di proporvi due video da quella serata:&lt;/p&gt;
 
-&lt;li&gt;&amp;#8220;Fare il proprio blog con Jekyll (con eventuale migrazione da wordpress)&amp;#8221; (tommyblue)&lt;/li&gt;
+&lt;h3&gt;Ma perché non emacs? - a caccia di feature che sicuramente esistono già&lt;/h3&gt;
 
-&lt;li&gt;&amp;#8220;Ma perché non emacs? - a caccia di feature che sicuramente esistono già&amp;#8221; (sciamp)&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;iframe src=&quot;http://player.vimeo.com/video/41595912&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;I wanna be an actor too - Painless multithreaded programming with Celluloid&lt;/h3&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/41551535&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</content>
  </entry>
  
  <entry>
    <title>La nascita del Ruby Social Club Firenze</title>
-   <link href="http://firenze.ruby-it.org/2012/04/26/la+nascita"/>
+   <link href="http://firenze.ruby-it.org/2012/04/26/la-nascita-del-ruby-social-club-firenze"/>
    <updated>2012-04-26T00:00:00+02:00</updated>
-   <id>http://firenze.ruby-it.org/2012/04/26/la nascita</id>
+   <id>http://firenze.ruby-it.org/2012/04/26/la-nascita-del-ruby-social-club-firenze</id>
    <content type="html">&lt;p&gt;I primi incontri sono avvenuti in forma privata nel salotto di qualcuno; il 18 aprile 2012 ci siamo avventurati in un pub con aperitivo e talk &amp;#8220;a braccio&amp;#8221; con sala e schermo gentilmente offerti dal locale.&lt;/p&gt;
 
 &lt;p&gt;La nostra idea è quella di portare avanti gli eventi con una formula tipo barcamp, mantenendo l&amp;#8217;ambiente il più informale possibile.&lt;/p&gt;

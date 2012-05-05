@@ -5,18 +5,22 @@ tagline: Firenze
 ---
 {% include JB/setup %}
 
+<img id="logo" src="/assets/images/logo.png" />
+
 ## Prossimo Evento
 
 {% for post in site.posts %}
 {% if post.is_the_next %}
+{% if post.google_maps %}
 <div id="next_event_map" style="float: right; padding: 5px;">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=pangoro+firenze,+italy&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=52.020054,65.742188&amp;ie=UTF8&amp;hq=pangoro&amp;hnear=Florence,+Tuscany,+Italy&amp;t=m&amp;cid=5905533116706675248&amp;ll=43.773263,11.236246&amp;spn=0.005423,0.00912&amp;z=16&amp;iwloc=A&amp;output=embed">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ post.google_maps }}">
 </iframe>
 <br />
 <small>
-	<a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=pangoro+firenze,+italy&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=52.020054,65.742188&amp;ie=UTF8&amp;hq=pangoro&amp;hnear=Florence,+Tuscany,+Italy&amp;t=m&amp;cid=5905533116706675248&amp;ll=43.773263,11.236246&amp;spn=0.005423,0.00912&amp;z=16&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a>
+	<a href="{{ post.google_maps }}" style="color:#0000FF;text-align:left">View Larger Map</a>
 </small>
 </div>
+{% endif %}
 {{ post.content }}
 {% endif %}
 {% endfor %}

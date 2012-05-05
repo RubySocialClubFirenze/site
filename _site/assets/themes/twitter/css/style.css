@@ -12,6 +12,10 @@ html, body {
   text-align: center; /* center align it with the container */
 }
 
+#logo {
+  float: right;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
