@@ -16,6 +16,14 @@ html, body {
   float: right;
 }
 
+a {
+  color: #ab293b;
+}
+
+a:hover {
+  color: #992939;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
