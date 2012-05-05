@@ -1,4 +1,4 @@
 User-agent: *
 
-Sitemap: http://http://firenze.ruby-it.org/sitemap.xml
+Sitemap: http://firenze.ruby-it.org/sitemap.txt
 
