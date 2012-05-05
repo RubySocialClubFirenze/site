@@ -21,8 +21,6 @@ tagline: Firenze
 {% endif %}
 {% endfor %}
 
-<div style="clear: both;"/>
-
 ## Come funziona il Ruby Social Club a Firenze
 
 Il Ruby Social Club di Firenze nasce come un incontro informale per gli 

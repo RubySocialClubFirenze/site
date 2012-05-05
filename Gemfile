@@ -7,4 +7,5 @@ gem 'rack-contrib'
 group :development do
   gem 'jekyll'
   gem 'RedCloth'
+  gem 'heroku'
 end
