@@ -13,19 +13,16 @@ tagline: Firenze
 {% if post.is_the_next %}
 {% if post.google_maps %}
 <div id="next_event_map" style="float: right; padding: 5px;">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ post.google_maps }}">
-</iframe>
-<br />
-<small>
-	<a href="{{ post.google_maps }}" style="color:#0000FF;text-align:left">View Larger Map</a>
-</small>
+  <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ post.google_maps }}"></iframe>
+  <br />
+  <small>
+    <a href="{{ post.google_maps }}" style="color:#0000FF;text-align:left">View Larger Map</a>
+  </small>
 </div>
 {% endif %}
 {{ post.content }}
 {% endif %}
 {% endfor %}
-
-<div style="clear: both;"/>
 
 ## Come funziona il Ruby Social Club a Firenze
 
@@ -60,14 +57,8 @@ Lo storico degli incontri
   {% endfor %}
 </ul>
 
+{% if site.safe %}
 <script type="text/javascript">
-{% if site.safe %}mixpanel.track("Homepage loaded");{% endif %}
-
-// $(function(){
-// 	//sposta la mappa
-// 	$(".map").css('float', 'right');
-// });
+mixpanel.track("Homepage loaded");
 </script>
-
-
-
+{% endif %}
