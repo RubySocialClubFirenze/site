@@ -1,0 +1,123 @@
+@import url("http://fonts.googleapis.com/css?family=Inconsolata");
+@import "partials/vars";
+
+/* Override some defaults */
+
+body {
+  background: $body_bg;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $title_color;
+  font-family: $title_font_family;
+  font-weight: normal;
+}
+a {
+  color: $link_color;
+}
+
+a:hover {
+  color: $link_color_hover;
+  text-decoration: underline;
+}
+
+#logo {
+  width: 300px;
+  height: 95px;
+  float: right;
+  margin-top: -20px;
+}
+.navbar {
+  margin-bottom: 0;
+}
+.navbar-inner {
+  background-color: $navbar_bg_color;
+  background-image: -moz-linear-gradient(center top , $navbar_bg_gradient_from, $navbar_bg_gradient_to);
+  border-radius: 0;
+}
+.navbar .nav > li > a {
+  color: $navbar_link_color;
+}
+.navbar .nav > li > a:hover {
+  text-decoration: underline;
+}
+.container > footer {
+  margin-top: 20px;
+}
+.container > footer p {
+  text-align: center; /* center align it with the container */
+  color: $footer_text_color;
+  font-size: 10px;
+}
+
+.container > footer a {
+  color: $footer_link_color;
+  text-decoration: underline;
+}
+
+/* The white background content wrapper */
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+/* Page header tweaks */
+.page-header {
+  background: $header_bg;
+  padding: 20px 20px 10px;
+  margin: -20px -20px 20px;
+  height: 65px;
+}
+
+.page-header h1, .page-header small {
+  color: $header_title_color;
+}
+
+.page-header h1 {
+  font-size: $header_title_size;
+  float: left;
+}
+
+.topbar .btn {
+  border: 0;
+}
+
+
+/* tag_box ======================================================== */
+
+.tag_box {
+	list-style:none;
+	margin:0;
+	padding:5px 0 ;
+	overflow:hidden;
+}
+.tag_box li {
+	line-height:28px;
+}
+.tag_box.inline li {
+	float:left;
+}
+.tag_box a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #eee;
+	color:#005F6B;
+	border-radius: 3px;
+	text-decoration:none;
+}
+.tag_box a span{
+	vertical-align:super;
+	font-size:0.8em;
+}
+.tag_box a.active {
+	background:#57A957;
+	border:1px solid #4C964D;
+	color:#FFF;
+}

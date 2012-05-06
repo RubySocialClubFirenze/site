@@ -1,17 +1,16 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Categories</title>
-    
-    <meta name="author" content="Ruby Social Club Firenze"/>
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}"/>
 
     <!-- Le styles -->
-    <link href="/assets/themes/rscf/stylesheets/bootstrap.min.css" rel="stylesheet"/>
-    <link href="/assets/themes/rscf/stylesheets/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+    <link href="{{ ASSET_PATH }}/stylesheets/bootstrap.min.css" rel="stylesheet"/>
+    <link href="{{ ASSET_PATH }}/stylesheets/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
 
-	<script type="text/javascript" src="/assets/themes/rscf/js/modernizr.custom.min.js" />
+	<script type="text/javascript" src="{{ ASSET_PATH }}/js/modernizr.custom.min.js" />
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -29,63 +28,11 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">Ruby Social Club Firenze</a>
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
-            
-            
-            
-
-
-  
-    
-      
-      	
-      	<li><a href="/archive.html">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li class="active"><a href="/categories.html" class="active">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/pages.html">Pages</a></li>
-      	
-      
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags.html">Tags</a></li>
-      	
-      
-    
-  
-
-
-
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
           </ul>
         </div>
       </div>
@@ -94,48 +41,19 @@
     <div class="container">
 
       <div class="content">
-        
-<div class="page-header">
-  <h1>Categories </h1>
-</div>
-
-<div class="row">
-  <div class="span12">
-    
-
-<ul class="tag_box inline">
-  
-  
-
-
-  
-    
-  
-
-
-</ul>
-
-
-
-
-
-  </div>
-</div>
-
-
+        {{ content }}
       </div>
 
       <footer>
-        <p>&copy; Ruby Social Club Firenze 2012 
-          con l'aiuto di <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>,
-           <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a> e
-           <a href="https://mixpanel.com/f/partner">Mixpanel</a>
+        <p>&copy; {{ site.author.name }} {{ site.time | date: "%Y" }} (<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/deed.it" target="_blank">Licenza CC</a>)
+          con l'aiuto di <a href="https://github.com/mojombo/jekyll" target="_blank" title="Jekyll is a blog-aware, static site generator in Ruby">Jekyll</a>, <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a> e <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+           <br /><br />
+           <a href="https://mixpanel.com/f/partner" target="_blank" title="Mixpanel"><img src="https://mixpanel.com/site_media/images/partner/badge_light.png" alt="Mobile and Web Analytics" /></a>
         </p>
       </footer>
 
     </div> <!-- /container -->
 
-    
+    {% include JB/analytics %}
   </body>
 </html>
-

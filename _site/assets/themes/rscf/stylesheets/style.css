@@ -1,0 +1,123 @@
+@import url("http://fonts.googleapis.com/css?family=Inconsolata");
+/* Override some defaults */
+body {
+  background: #eeeeee url(/assets/themes/rscf/images/bg.gif) repeat 0 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #d52b34;
+  font-family: "Inconsolata", sans-serif;
+  font-weight: normal;
+}
+
+a {
+  color: #d52b34;
+}
+
+a:hover {
+  color: #d52b34;
+  text-decoration: underline;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-inner {
+  background-color: #aaaaaa;
+  background-image: -moz-linear-gradient(center top, #6e0f0f, #600707);
+  border-radius: 0;
+}
+
+.navbar .nav > li > a {
+  color: white;
+}
+
+.navbar .nav > li > a:hover {
+  text-decoration: underline;
+}
+
+.container > footer {
+  margin-top: 20px;
+}
+
+.container > footer p {
+  text-align: center;
+  /* center align it with the container */
+  color: #d52b34;
+}
+
+.container > footer a {
+  color: #d52b34;
+  text-decoration: underline;
+}
+
+/* The white background content wrapper */
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 -20px;
+  /* negative indent the amount of the padding to maintain the grid system */
+  -webkit-border-radius: 0 0 6px 6px;
+  -moz-border-radius: 0 0 6px 6px;
+  border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+/* Page header tweaks */
+.page-header {
+  background: #d52b34 url(/assets/images/logo-neg.png) no-repeat center right;
+  padding: 20px 20px 10px;
+  margin: -20px -20px 20px;
+  height: 60px;
+}
+
+.page-header h1, .page-header small {
+  color: white;
+}
+
+.page-header h1 {
+  font-size: 40px;
+}
+
+.topbar .btn {
+  border: 0;
+}
+
+/* tag_box ======================================================== */
+.tag_box {
+  list-style: none;
+  margin: 0;
+  padding: 5px 0;
+  overflow: hidden;
+}
+
+.tag_box li {
+  line-height: 28px;
+}
+
+.tag_box.inline li {
+  float: left;
+}
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #005F6B;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em;
+}
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4C964D;
+  color: #FFF;
+}

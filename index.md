@@ -5,8 +5,6 @@ tagline: Firenze
 ---
 {% include JB/setup %}
 
-<img id="logo" src="/assets/images/logo.png" />
-
 ## Prossimo Evento
 
 {% for post in site.posts %}
