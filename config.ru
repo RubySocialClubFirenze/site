@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'rack'
 require 'rack/contrib/try_static'
-require 'rack/rewrite'
 
 def quattrocentoquattro(env)
   puts "[404] - #{env["REQUEST_URI"]}"
