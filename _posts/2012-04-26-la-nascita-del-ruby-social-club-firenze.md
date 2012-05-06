@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "La nascita del Ruby Social Club Firenze"
+title: "La nascita del RSC Firenze"
 description: "il primo incontro"
-tagline: Firenze 
+tagline:  
 category: 
-tags: [cronache]
+tags:
 author: nolith
 ---
 {% include JB/setup %}
