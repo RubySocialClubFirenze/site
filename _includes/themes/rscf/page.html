@@ -7,8 +7,25 @@
   </div>
 </div>
 
+
 <div class="row">
-  <div class="span12">
-    {{ content }}
-  </div>
+	{% if page.eventbrite_calendar %}
+	<div class="span9">
+		{{ content }}
+	</div>
+	<div style="width:195px; text-align:center;" class="span3">
+		<iframe  src="http://www.eventbrite.com/calendar-widget?eid=3204034353" frameborder="0" height="435" 
+		width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true">
+		</iframe>
+		<div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;" >
+			<a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/ecal">Sell Tickets</a> 
+			<span style="color:#ddd;">through</span> 
+			<a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=ecal">Eventbrite</a>
+		</div>
+	</div>
+	{% else %}
+	<div class="span12">
+	{{ content }}
+	</div>
+	{% endif %}
 </div>

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Ruby Social Club 
-tagline: Firenze 
+tagline: Firenze
+eventbrite_calendar: true 
 ---
 {% include JB/setup %}
 
