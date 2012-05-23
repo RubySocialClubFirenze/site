@@ -4,7 +4,7 @@
  <title>Ruby Social Club Firenze</title>
  <link href="http://firenze.ruby-it.org/atom.xml" rel="self"/>
  <link href="http://firenze.ruby-it.org"/>
- <updated>2012-05-11T15:57:45+02:00</updated>
+ <updated>2012-05-23T15:46:28+02:00</updated>
  <id>http://firenze.ruby-it.org</id>
  <author>
    <name>Ruby Social Club Firenze</name>
@@ -17,7 +17,7 @@
    <link href="http://firenze.ruby-it.org/2012/05/05/corso-base-ruby-e-ruby-on-rails"/>
    <updated>2012-05-05T00:00:00+02:00</updated>
    <id>http://firenze.ruby-it.org/2012/05/05/corso-base-ruby-e-ruby-on-rails</id>
-   <content type="html">&lt;p&gt;La proposta per i prossimo evento è quella di un doppio incontro, il primo di introduzione a &lt;strong&gt;Ruby&lt;/strong&gt; e il secondo a &lt;strong&gt;Ruby on Rails&lt;/strong&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;La proposta per i prossimi eventi è quella di un doppio incontro, il primo di introduzione a &lt;strong&gt;Ruby&lt;/strong&gt; (il 6 giugno) e il secondo a &lt;strong&gt;Ruby on Rails&lt;/strong&gt; (il 4 luglio).&lt;/p&gt;
 
 &lt;p&gt;Gli incontri sono destinati a chi si avvicina per la prima volta al mondo Ruby e Rails.&lt;/p&gt;
 
