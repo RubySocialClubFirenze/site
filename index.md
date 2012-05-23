@@ -2,7 +2,8 @@
 layout: page
 title: Ruby Social Club 
 tagline: Firenze
-eventbrite_calendar: true 
+eventbrite_calendar: true
+eventbrite_tickets: true
 ---
 {% include JB/setup %}
 
