@@ -4,7 +4,7 @@
  <title>Ruby Social Club Firenze</title>
  <link href="http://firenze.ruby-it.org/atom.xml" rel="self"/>
  <link href="http://firenze.ruby-it.org"/>
- <updated>2012-05-29T18:23:27+02:00</updated>
+ <updated>2012-05-29T21:54:55+02:00</updated>
  <id>http://firenze.ruby-it.org</id>
  <author>
    <name>Ruby Social Club Firenze</name>
@@ -17,7 +17,7 @@
    <link href="http://firenze.ruby-it.org/2012/05/29/corso-ruby"/>
    <updated>2012-05-29T00:00:00+02:00</updated>
    <id>http://firenze.ruby-it.org/2012/05/29/corso-ruby</id>
-   <content type="html">&lt;p&gt;Mercoledì 6 giugno il Ruby Social Club organizza un &lt;strong&gt;corso base sul linguaggio Ruby&lt;/strong&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Mercoledì 6 giugno alle 19:30 il Ruby Social Club organizza un &lt;strong&gt;corso base sul linguaggio Ruby&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Una traccia degli argomenti trattati è la seguente:&lt;/p&gt;
 
@@ -37,7 +37,7 @@
 
 &lt;p&gt;La serata vedrà molti momenti di &lt;strong&gt;hacking&lt;/strong&gt; quindi è fortemente consigliato venire &lt;strong&gt;muniti di pc portatile&lt;/strong&gt; (meglio ancora se già con ruby &amp;gt;= 1.9.x installato).&lt;/p&gt;
 
-&lt;p&gt;Il Ruby Social Club si svolgerà presso la sede di DrWolf srl, in via Reginaldo Giuliani 88, 50141 Firenze (&lt;a href='http://www.drwolf.it/lazienda/dove-siamo'&gt;mappa&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Il Ruby Social Club si svolgerà presso la sede di DrWolf srl, in via Reginaldo Giuliani 88, 50141 Firenze (&lt;a href='http://www.drwolf.it/lazienda/dove-siamo'&gt;mappa&lt;/a&gt;) Inizierà alle 19:30 e terminerà, ora più ora meno, attorno alle 23.&lt;/p&gt;
 
 &lt;p&gt;L’incontro è, ovviamente, aperto a tutti ma si consiglia la partecipazione a chi sappia già programmare in maniera discreta in almeno un linguaggio (i concetti base della programmazione a oggetti saranno dati per scontato)&lt;/p&gt;
 
