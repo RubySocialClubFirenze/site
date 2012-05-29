@@ -8,7 +8,7 @@ is_the_next: true
 google_maps: false
 ---
 {% include JB/setup %}
-Mercoledì 6 giugno alle 19:30 il Ruby Social Club organizza un **corso base sul linguaggio Ruby**.
+**Mercoledì 6 giugno alle 19:30** il Ruby Social Club organizza un **corso base sul linguaggio Ruby**.
 
 Una traccia degli argomenti trattati è la seguente:
 
@@ -21,7 +21,7 @@ Una traccia degli argomenti trattati è la seguente:
 
 La serata vedrà molti momenti di **hacking** quindi è fortemente consigliato venire **muniti di pc portatile** (meglio ancora se già con ruby >= 1.9.x installato).
 
-Il Ruby Social Club si svolgerà presso la sede di DrWolf srl, in via Reginaldo Giuliani 88, 50141 Firenze ([mappa](http://www.drwolf.it/lazienda/dove-siamo)) Inizierà alle 19:30 e terminerà, ora più ora meno, attorno alle 23.
+Il Ruby Social Club si svolgerà presso la sede di **DrWolf srl, in via Reginaldo Giuliani 88, 50141 Firenze** ([mappa](http://www.drwolf.it/lazienda/dove-siamo)). **Inizierà alle ore 19:30** e terminerà, ora più ora meno, attorno alle 23.
 
 L’incontro è, ovviamente, aperto a tutti ma si consiglia la partecipazione a chi sappia già programmare in maniera discreta in almeno un linguaggio (i concetti base della programmazione a oggetti saranno dati per scontato)
 
