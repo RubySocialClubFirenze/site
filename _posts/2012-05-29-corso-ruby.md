@@ -25,7 +25,9 @@ Il Ruby Social Club si svolgerà presso la sede di DrWolf srl, in via Reginaldo 
 
 L’incontro è, ovviamente, aperto a tutti ma si consiglia la partecipazione a chi sappia già programmare in maniera discreta in almeno un linguaggio (i concetti base della programmazione a oggetti saranno dati per scontato)
 
-Chiederemo ai partecipanti un contributo di 2 &euro; per l'acquisto di stuzzichini e bevande varie, durante la serata decideremo poi come cenare (kebab, pizza, ecc.). **Per questo vi preghiamo di registrarvi all'evento su [Eventbrite](http://rubysocialclub-fi.eventbrite.com).**
+Vi preghiamo di registrarvi all'evento su [Eventbrite](http://rubysocialclub-fi.eventbrite.com) per avere un'idea di quanti saremo.
+In base agli iscritti provvederemo anche all'acquisto di stuzzichini e bevande varie. All'entrata troverete una cassetta per la raccolta delle offerte per il rimborso, abbiamo stimato 2 &euro; a testa ma chi pensa di non _stuzzicarsi_ può tranquillamente ignorare la cassetta :)
+Durante la serata decideremo poi come cenare, la zona offre molte soluzioni (kebab, pizza, ecc.).
 
 Vi ricordiamo che il corso Ruby fa parte di una serie di due serate di [introduzione a Ruby e Ruby on Rails](/2012/05/05/corso-base-ruby-e-ruby-on-rails/). **Il prossimo RSC, il 4 Luglio, sarà appunto un corso su Ruby on Rails.**
 
