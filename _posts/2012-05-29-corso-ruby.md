@@ -23,7 +23,7 @@ La serata vedrà molti momenti di **hacking** quindi è fortemente consigliato v
 
 Il Ruby Social Club si svolgerà presso la sede di DrWolf srl, in via Reginaldo Giuliani 88, 50141 Firenze ([mappa](http://www.drwolf.it/lazienda/dove-siamo)).
 
-L'incontro è, ovviamente, aperto a tutti ma si consiglia la partecipazione a chi sappia già programmare in maniera discreta (i concetti base della programmazione saranno dati per scontato).
+L’incontro è, ovviamente, aperto a tutti ma si consiglia la partecipazione a chi sappia già programmare in maniera discreta in almeno un linguaggio (i concetti base della programmazione a oggetti saranno dati per scontato)
 
 Chiederemo ai partecipanti un contributo di 2 &euro; per l'acquisto di stuzzichini e bevande varie, durante la serata decideremo poi come cenare (kebab, pizza, ecc.). **Per questo vi preghiamo di registrarvi all'evento su [Eventbrite](http://rubysocialclub-fi.eventbrite.com).**
 
