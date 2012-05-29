@@ -4,7 +4,7 @@
  <title>Ruby Social Club Firenze</title>
  <link href="http://firenze.ruby-it.org/atom.xml" rel="self"/>
  <link href="http://firenze.ruby-it.org"/>
- <updated>2012-05-23T15:46:28+02:00</updated>
+ <updated>2012-05-29T18:10:03+02:00</updated>
  <id>http://firenze.ruby-it.org</id>
  <author>
    <name>Ruby Social Club Firenze</name>
@@ -13,7 +13,47 @@
 
  
  <entry>
-   <title>Corso base Ruby e Ruby on Rails</title>
+   <title>Corso base Ruby</title>
+   <link href="http://firenze.ruby-it.org/2012/05/29/corso-ruby"/>
+   <updated>2012-05-29T00:00:00+02:00</updated>
+   <id>http://firenze.ruby-it.org/2012/05/29/corso-ruby</id>
+   <content type="html">&lt;p&gt;Mercoledì 6 giugno il Ruby Social Club organizza un &lt;strong&gt;corso base sul linguaggio Ruby&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Una traccia degli argomenti trattati è la seguente:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Panoramica su Ruby, RVM, gemme e bundle&lt;/li&gt;
+
+&lt;li&gt;Hello, world!&lt;/li&gt;
+
+&lt;li&gt;I tipi base (mettendo il focus sulle differenze rispetto agli altri linguaggi mainstream)&lt;/li&gt;
+
+&lt;li&gt;Convenzioni di naming e scrittura di una classe&lt;/li&gt;
+
+&lt;li&gt;I blocchi&lt;/li&gt;
+
+&lt;li&gt;Metaprogrammazione &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La serata vedrà molti momenti di &lt;strong&gt;hacking&lt;/strong&gt; quindi è fortemente consigliato venire &lt;strong&gt;muniti di pc portatile&lt;/strong&gt; (meglio ancora se già con ruby &amp;gt;= 1.9.x installato).&lt;/p&gt;
+
+&lt;p&gt;Il Ruby Social Club si svolgerà presso la sede di DrWolf srl, in via Reginaldo Giuliani 88, 50141 Firenze (&lt;a href='http://www.drwolf.it/lazienda/dove-siamo'&gt;mappa&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;L&amp;#8217;incontro è, ovviamente, aperto a tutti ma si consiglia la partecipazione a chi sappia già programmare in maniera discreta (i concetti base della programmazione saranno dati per scontato).&lt;/p&gt;
+
+&lt;p&gt;Chiederemo ai partecipanti un contributo di 2 &amp;#8364; per l&amp;#8217;acquisto di stuzzichini e bevande varie, durante la serata decideremo poi come cenare (kebab, pizza, ecc.). &lt;strong&gt;Per questo vi preghiamo di registrarvi all&amp;#8217;evento su &lt;a href='http://rubysocialclub-fi.eventbrite.com'&gt;Eventbrite&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vi ricordiamo che il corso Ruby fa parte di una serie di due serate di &lt;a href='/2012/05/05/corso-base-ruby-e-ruby-on-rails/'&gt;introduzione a Ruby e Ruby on Rails&lt;/a&gt;. &lt;strong&gt;Il prossimo RSC, il 4 Luglio, sarà appunto un corso su Ruby on Rails.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Come sempre è valido l&amp;#8217;invito ad iscriversi alla &lt;a href='https://lists.lilik.it/wws/subscribe/ruby'&gt;mailing list&lt;/a&gt; di coordinamento del RSC.&lt;/p&gt;
+
+&lt;h3 id='video'&gt;Video&lt;/h3&gt;
+
+&lt;p&gt;Sono online i video dell&amp;#8217;ultimo incontro, puoi trovarli a &lt;a href='/2012/05/02/2-maggio-al-pangoro/'&gt;questa pagina&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduzione al corso base Ruby e Ruby on Rails</title>
    <link href="http://firenze.ruby-it.org/2012/05/05/corso-base-ruby-e-ruby-on-rails"/>
    <updated>2012-05-05T00:00:00+02:00</updated>
    <id>http://firenze.ruby-it.org/2012/05/05/corso-base-ruby-e-ruby-on-rails</id>
@@ -23,11 +63,7 @@
 
 &lt;p&gt;Lo stile sarà quello dell&amp;#8217;&lt;strong&gt;hacking session&lt;/strong&gt;, descritta più in basso.&lt;/p&gt;
 
-&lt;p&gt;Se vuoi contribuire con proposte, idee, suggerimenti o quant&amp;#8217;altro iscriviti alla nostra &lt;a href='https://lists.lilik.it/wws/subscribe/ruby'&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id='video'&gt;Video&lt;/h3&gt;
-
-&lt;p&gt;Sono online i video dell&amp;#8217;ultimo incontro, puoi trovarli a &lt;a href='/2012/05/02/2-maggio-al-pangoro/'&gt;questa pagina&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Se vuoi contribuire con proposte, idee, suggerimenti o quant&amp;#8217;altro iscriviti alla nostra &lt;a href='https://lists.lilik.it/wws/subscribe/ruby'&gt;mailing list&lt;/a&gt;.&lt;/p&gt;</content>
  </entry>
  
  <entry>
