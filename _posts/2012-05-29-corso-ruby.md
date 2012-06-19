@@ -4,7 +4,7 @@ title: "Corso base Ruby"
 description: ""
 category:
 tags: []
-is_the_next: true
+is_the_next: false
 google_maps: false
 ---
 {% include JB/setup %}
@@ -33,7 +33,3 @@ Vi ricordiamo che il corso Ruby fa parte di una serie di due serate di [introduz
 
 
 Come sempre è valido l'invito ad iscriversi alla [mailing list](https://lists.lilik.it/wws/subscribe/ruby) di coordinamento del RSC.
-
-### Video
-
-Sono online i video dell'ultimo incontro, puoi trovarli a [questa pagina](/2012/05/02/2-maggio-al-pangoro/).
