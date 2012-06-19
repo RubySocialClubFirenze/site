@@ -4,13 +4,33 @@
  <title>Ruby Social Club Firenze</title>
  <link href="http://firenze.ruby-it.org/atom.xml" rel="self"/>
  <link href="http://firenze.ruby-it.org"/>
- <updated>2012-06-14T11:36:14+02:00</updated>
+ <updated>2012-06-19T10:23:15+02:00</updated>
  <id>http://firenze.ruby-it.org</id>
  <author>
    <name>Ruby Social Club Firenze</name>
    <email>ruby-request@lists.lilik.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Corso Ruby on Rails</title>
+   <link href="http://firenze.ruby-it.org/2012/06/19/corso-ruby-on-rails"/>
+   <updated>2012-06-19T00:00:00+02:00</updated>
+   <id>http://firenze.ruby-it.org/2012/06/19/corso-ruby-on-rails</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Mercoledì 4 luglio alle 19:30&lt;/strong&gt; il Ruby Social Club organizza un &lt;strong&gt;corso base sul framework Ruby on Rails&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La serata sarà organizzata in stile hacking-session, quindi chi vuole provare a &lt;em&gt;sporcarsi le mani&lt;/em&gt; col codice si porti un pc con ruby 1.9.3 installato.&lt;/p&gt;
+
+&lt;p&gt;Gli argomenti da trattare sono molti, quindi cercheremo di dare una panoramica generale mentre costruiamo live una piccola applicazione Rails, rimandando a futuri incontri gli approfondimenti dei singoli argomenti.&lt;/p&gt;
+
+&lt;p&gt;Il Ruby Social Club si svolgerà presso la sede di &lt;strong&gt;DrWolf srl, in via Reginaldo Giuliani 88, 50141 Firenze&lt;/strong&gt; (&lt;a href='http://www.drwolf.it/lazienda/dove-siamo'&gt;mappa&lt;/a&gt;). &lt;strong&gt;Inizierà alle ore 19:30&lt;/strong&gt; e terminerà, ora più ora meno, attorno alle 23.&lt;/p&gt;
+
+&lt;p&gt;L’incontro è, ovviamente, aperto a tutti ma si consiglia la partecipazione a chi sappia già programmare in un linguaggio a oggetti, meglio ancora se conosce almeno un po&amp;#8217; Ruby.&lt;/p&gt;
+
+&lt;p&gt;Vi preghiamo di registrarvi all&amp;#8217;evento su &lt;a href='http://rubysocialclub-fi.eventbrite.com'&gt;Eventbrite&lt;/a&gt; per avere un&amp;#8217;idea di quanti saremo. In base agli iscritti provvederemo anche all&amp;#8217;acquisto di stuzzichini e bevande varie. All&amp;#8217;entrata troverete una cassetta per la raccolta delle offerte per il rimborso, abbiamo stimato 2 &amp;#8364; a testa ma chi pensa di non &lt;em&gt;stuzzicarsi&lt;/em&gt; può tranquillamente ignorare la cassetta :) Durante la serata decideremo poi come cenare, la zona offre molte soluzioni (kebab, pizza, ecc.).&lt;/p&gt;
+
+&lt;p&gt;Come sempre è valido l&amp;#8217;invito ad iscriversi alla &lt;a href='https://lists.lilik.it/wws/subscribe/ruby'&gt;mailing list&lt;/a&gt; di coordinamento del RSC (se volete vedere di cosa parliamo trovate &lt;a href='https://lists.lilik.it/wws/arc/ruby'&gt;qui gli archivi della lista&lt;/a&gt;).&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Corso base Ruby</title>
@@ -45,11 +65,7 @@
 
 &lt;p&gt;Vi ricordiamo che il corso Ruby fa parte di una serie di due serate di &lt;a href='/2012/05/05/corso-base-ruby-e-ruby-on-rails/'&gt;introduzione a Ruby e Ruby on Rails&lt;/a&gt;. &lt;strong&gt;Il prossimo RSC, il 4 Luglio, sarà appunto un corso su Ruby on Rails.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Come sempre è valido l&amp;#8217;invito ad iscriversi alla &lt;a href='https://lists.lilik.it/wws/subscribe/ruby'&gt;mailing list&lt;/a&gt; di coordinamento del RSC.&lt;/p&gt;
-
-&lt;h3 id='video'&gt;Video&lt;/h3&gt;
-
-&lt;p&gt;Sono online i video dell&amp;#8217;ultimo incontro, puoi trovarli a &lt;a href='/2012/05/02/2-maggio-al-pangoro/'&gt;questa pagina&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Come sempre è valido l&amp;#8217;invito ad iscriversi alla &lt;a href='https://lists.lilik.it/wws/subscribe/ruby'&gt;mailing list&lt;/a&gt; di coordinamento del RSC.&lt;/p&gt;</content>
  </entry>
  
  <entry>

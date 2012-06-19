@@ -1,13 +1,14 @@
 
-http://firenze.ruby-it.org/atom.xml
-http://firenze.ruby-it.org/tags.html
-http://firenze.ruby-it.org/categories.html
-http://firenze.ruby-it.org/pages.html
 http://firenze.ruby-it.org/archive.html
-http://firenze.ruby-it.org/robots.txt
+http://firenze.ruby-it.org/atom.xml
+http://firenze.ruby-it.org/categories.html
 http://firenze.ruby-it.org/index.html
+http://firenze.ruby-it.org/pages.html
+http://firenze.ruby-it.org/robots.txt
 http://firenze.ruby-it.org/sitemap.txt
+http://firenze.ruby-it.org/tags.html
 
+http://firenze.ruby-it.org/2012/06/19/corso-ruby-on-rails
 http://firenze.ruby-it.org/2012/05/29/corso-ruby
 http://firenze.ruby-it.org/2012/05/05/corso-base-ruby-e-ruby-on-rails
 http://firenze.ruby-it.org/2012/05/02/2-maggio-al-pangoro
