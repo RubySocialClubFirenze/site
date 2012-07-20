@@ -4,7 +4,7 @@ title: "Corso Ruby on Rails"
 description: ""
 category:
 tags: []
-is_the_next: true
+is_the_next: false
 google_maps: false
 ---
 {% include JB/setup %}
