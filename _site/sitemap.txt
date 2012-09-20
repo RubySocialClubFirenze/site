@@ -4,6 +4,7 @@ http://firenze.ruby-it.org/atom.xml
 http://firenze.ruby-it.org/categories.html
 http://firenze.ruby-it.org/index.html
 http://firenze.ruby-it.org/pages.html
+http://firenze.ruby-it.org/recensioni.html
 http://firenze.ruby-it.org/robots.txt
 http://firenze.ruby-it.org/sitemap.txt
 http://firenze.ruby-it.org/tags.html

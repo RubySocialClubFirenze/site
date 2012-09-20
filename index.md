@@ -57,6 +57,10 @@ Lo storico degli incontri
   {% endfor %}
 </ul>
 
+## Recensioni O'Reilly
+
+Il Ruby Social Club Firenze fa parte di O'Reilly Group. Nella [pagina dedicata](/recensioni.html) trovate le recensioni dei libri che abbiamo letto.
+
 {% if site.safe %}
 <script type="text/javascript">
 mixpanel.track("Homepage loaded");
